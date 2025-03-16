@@ -34,4 +34,4 @@ D:\dotnet\Mango\Mango.Web\obj\Debug\net8.0\refint\Mango.Web.dll
 D:\dotnet\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.pdb
 D:\dotnet\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.genruntimeconfig.cache
 D:\dotnet\Mango\Mango.Web\obj\Debug\net8.0\ref\Mango.Web.dll
-D:\dotnet\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\dotnet\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.sourcelink.json

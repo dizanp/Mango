@@ -11,6 +11,11 @@
         "Path": "Mango.Web\\Mango.Web.csproj",
         "Action": "Start",
         "DebugTarget": "https"
+      },
+      {
+        "Path": "Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
       }
     ]
   }
