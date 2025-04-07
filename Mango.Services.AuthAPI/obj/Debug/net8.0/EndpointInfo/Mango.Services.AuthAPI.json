@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/AuthApi/register": {
+    "/api/auth/register": {
       "post": {
         "tags": [
           "AuthApi"
@@ -36,7 +36,7 @@
         }
       }
     },
-    "/api/AuthApi/login": {
+    "/api/auth/login": {
       "post": {
         "tags": [
           "AuthApi"
@@ -56,6 +56,37 @@
             "application/*+json": {
               "schema": {
                 "$ref": "#/components/schemas/LoginRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/auth/AssignRole": {
+      "post": {
+        "tags": [
+          "AuthApi"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterationRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterationRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterationRequestDto"
               }
             }
           }
@@ -100,6 +131,10 @@
             "nullable": true
           },
           "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "role": {
             "type": "string",
             "nullable": true
           }

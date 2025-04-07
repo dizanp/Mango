@@ -35,3 +35,8 @@ D:\dotnet\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.pdb
 D:\dotnet\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.genruntimeconfig.cache
 D:\dotnet\Mango\Mango.Web\obj\Debug\net8.0\ref\Mango.Web.dll
 D:\dotnet\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.sourcelink.json
+D:\dotnet\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dotnet\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\Mango\Mango.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\Mango\Mango.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
