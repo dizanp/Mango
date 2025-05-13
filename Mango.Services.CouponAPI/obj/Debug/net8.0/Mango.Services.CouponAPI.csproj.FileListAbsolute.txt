@@ -141,3 +141,4 @@ D:\dotnet\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.
 D:\dotnet\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\dotnet\Mango\Mango.Services.CouponAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\dotnet\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.sourcelink.json
+D:\dotnet\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
