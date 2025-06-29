@@ -1,0 +1,23 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Mango.Services.ShoppingCartAPI",
+    "version": "1.0"
+  },
+  "paths": { },
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "Enter the Bearer Authorization string as following: `Bearer Generated-JWT-Token`",
+        "name": "Authorization",
+        "in": "header"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}
